@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Osayande Ebowe
 - 🌱 I’m currently a data analyst
-- 💞️ I’m looking to get an entry level data analyst postion
 - 📫 How to reach me ...osayande.ebowe1@gmail.com
 
 <!---
